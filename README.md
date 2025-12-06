@@ -6,7 +6,7 @@
 
 <b>написать мне:</b>
 <div align="left">
-  <a href="ezzproggers@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=D14836" alt="gmail" /></a>
+  <a href="mailto:ezzproggers@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=D14836" alt="gmail" /></a>
   <a href="[t.me/kakaya_zhalost](https://t.me/kakaya_zhalost)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=36bfd1" alt="telegram" /></a>
 </div>
 <br>
