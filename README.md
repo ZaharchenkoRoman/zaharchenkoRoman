@@ -36,7 +36,7 @@
 ---
 Если у вас есть вопросы или предложения по трудоустройству, не стесняйтесь связаться со мной:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kakaya_zhalost) [![Email](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=d14836)](mailto:ezzproggers@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kakaya_zhalost)
 
 Спасибо за внимание к моему портфолио! Я всегда открыт для новых возможностей и сотрудничества
 
