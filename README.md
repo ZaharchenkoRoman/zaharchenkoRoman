@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white" alt="Gulp"/> 
    <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" alt="Prettier"/> 
    <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" alt="eslint"/> 
-  <img src="https://img.shields.io/badge/TanStack-4B32C3?logo=TanStack&logoColor=white" alt="TanStack"/> 
+  <img src="https://img.shields.io/badge/TanStack-ffd966?logo=TanStack&logoColor=white" alt="TanStack"/> 
    <p>And more...</span>
 </div>
  <h3>🚀 над чем работаю сейчас:</h3>  
